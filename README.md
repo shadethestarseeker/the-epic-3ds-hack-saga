@@ -1,2 +1,2 @@
-# the-epic-3ds-hack-saga
-okay I'm gonna freaking try to make a cia for 3ds download
+this is just gonna be a simple 3ds hack i made at school lol
+enjoy i guess
