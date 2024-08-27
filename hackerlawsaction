@@ -1,0 +1,6 @@
+1 
+            - name: Hacker Laws Action
+  # You may pin to the exact commit or the version.
+  # uses: umutphp/hacker-laws-action@9b5269e13ce061599079a92c1766a43dbe7fb974
+  uses: umutphp/hacker-laws-action@v1
+ 
